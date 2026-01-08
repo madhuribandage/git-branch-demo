@@ -2,3 +2,5 @@ git -distributed version control tool
 used to track status
 git fork-copying data as it is
 git clone - exact copy of repo where we canmodify the data
+fit diff -to check where we modified file
+new bugfix branchcreated
